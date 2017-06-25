@@ -30,4 +30,6 @@ Pod::Spec.new do |s|
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.requires_arc = true
 
+  s.dependency 'SwiftyJSON'
+
 end
