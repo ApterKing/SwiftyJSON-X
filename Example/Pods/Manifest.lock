@@ -1,5 +1,7 @@
 PODS:
-  - SwiftyJSON-X (0.1.0)
+  - SwiftyJSON (3.1.4)
+  - SwiftyJSON-X (1.0.1):
+    - SwiftyJSON
 
 DEPENDENCIES:
   - SwiftyJSON-X (from `../`)
@@ -9,7 +11,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftyJSON-X: d21ee4b584b03bc6f6f9ccd519ec3cf1a7c61a94
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyJSON-X: a9e003ea89caac62f1f3534169eb2392fbf34de4
 
 PODFILE CHECKSUM: 9271a59e1d57504d58c717bc9e2dcf376fc26af4
 
