@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "SwiftyJSON-X"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Use SwiftyJSON transform Any JSON to Model, Model to JSON"
 
   s.homepage     = "https://github.com/ApterKing/SwiftyJSON-X"
