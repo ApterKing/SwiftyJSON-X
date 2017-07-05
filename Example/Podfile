@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftyJSON-X_Example' do
+  pod 'SwiftyJSON-X', :path => '../'
+
+  target 'SwiftyJSON-X_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

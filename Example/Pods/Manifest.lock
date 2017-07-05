@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyJSON-X (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyJSON-X (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON-X:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyJSON-X: d21ee4b584b03bc6f6f9ccd519ec3cf1a7c61a94
+
+PODFILE CHECKSUM: 9271a59e1d57504d58c717bc9e2dcf376fc26af4
+
+COCOAPODS: 1.2.1
